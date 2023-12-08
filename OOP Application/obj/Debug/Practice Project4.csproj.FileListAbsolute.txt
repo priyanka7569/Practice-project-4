@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\practice project4\OOP Application\OOP Application\bin\Debug\OOP Application.exe.config
+C:\Users\kotap\OneDrive\Desktop\practice project4\OOP Application\OOP Application\bin\Debug\OOP Application.exe
+C:\Users\kotap\OneDrive\Desktop\practice project4\OOP Application\OOP Application\bin\Debug\OOP Application.pdb
+C:\Users\kotap\OneDrive\Desktop\practice project4\OOP Application\OOP Application\obj\Debug\Practice Project4.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\practice project4\OOP Application\OOP Application\obj\Debug\Practice Project4.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\practice project4\OOP Application\OOP Application\obj\Debug\OOP Application.exe
+C:\Users\kotap\OneDrive\Desktop\practice project4\OOP Application\OOP Application\obj\Debug\OOP Application.pdb
